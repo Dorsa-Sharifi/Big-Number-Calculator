@@ -6,7 +6,7 @@ It's implemented using x86-64.
 To run the program, follow the steps below:<br />
 1- Run the code on Linux.<br />
 2- At first enter one of the following signs : +,-,*,/,% <br />
-3- Enter 2 random numbers.<br />
+3- Enter 2 random numbers each in a single line.<br />
 4- The answer will be printed on the terminal.<br />
 5- Enter q to terminate the program.<br />
 # Authors
